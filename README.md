@@ -7,6 +7,7 @@ This project presents a sales analysis dashboard developed using Power BI. It ex
 To transform raw sales data into meaningful insights through interactive visualizations and business-focused analysis.
 
 ---
+chocolate sales data.png
 
 ## Key Metrics
 
